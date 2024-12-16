@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **Prunet.t@gmail.com**
 
-- 📄 Know about my experiences on [my CV]([https://www.canva.com/design/DAGVQQBsqYU/E9oUtctopW2uXCMnKNracw/view?utm_content=DAGVQQBsqYU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13cbebd54b](https://www.canva.com/design/DAGVQQBsqYU/E9oUtctopW2uXCMnKNracw/view?utm_content=DAGVQQBsqYU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13cbebd54b))
+- 📄 Know about my experiences on [my CV]([https://www.canva.com/design/DAGVQQBsqYU/E9oUtctopW2uXCMnKNracw/view?utm_content=DAGVQQBsqYU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13cbebd54b](https://www.canva.com/design/DAGVQQBsqYU/E9oUtctopW2uXCMnKNracw/view?utm_content=DAGVQQBsqYU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13cbebd54b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
