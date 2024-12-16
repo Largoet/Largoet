@@ -12,6 +12,10 @@
 
 - 📄 Know about my experiences on [my CV](https://www.canva.com/design/DAGVQQBsqYU/E9oUtctopW2uXCMnKNracw/view?utm_content=DAGVQQBsqYU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13cbebd54b)
 
+- 🥋 Enthusiast of martial arts, currently focused on Muay Thai
+  
+- 🌳 A lover of architecture, nature, and serene landscapes
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thibaut prunet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thibaut prunet" height="30" width="40" /></a>
