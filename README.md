@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences on [my CV](https://www.canva.com/design/DAGVQQBsqYU/E9oUtctopW2uXCMnKNracw/view?utm_content=DAGVQQBsqYU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h13cbebd54b)
 
-- 🥋 Enthusiast of martial arts, currently focused on Muay Thai;
+- 🥋 Enthusiast of martial arts, and sailling navigation.
   
 - 🌳 A lover of architecture, nature, and serene landscapes.
 
