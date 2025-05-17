@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [Curriculum Vitae](https://drive.google.com/file/d/1ANbQXMyc-WsUqLxultqQr9RIuAd0wzqz/view?usp=sharing)
 
-- 📫 How to reach me **prunet.tht@prontonmail.com**
+- 📫 How to reach me **prunet.tht@protonmail.com**
 
 - 🥋 Enthusiast guitar, fishing, and sailling navigation.
   
