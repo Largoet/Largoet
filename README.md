@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available on [my GitHub account](https://github.com/Largoet).
 
-- 📄 Know about my experiences [Curriculum Vitae]([https://drive.google.com/file/d/1ANbQXMyc-WsUqLxultqQr9RIuAd0wzqz/view?usp=sharing](https://www.canva.com/design/DAGya3oe1wU/csyxZk5826fU0TflToWBlA/edit?utm_content=DAGya3oe1wU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [Curriculum Vitae][https://www.canva.com/design/DAGya3oe1wU/csyxZk5826fU0TflToWBlA/edit?utm_content=DAGya3oe1wU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 
 - 📫 How to reach me **prunet.tht@protonmail.com**
 
