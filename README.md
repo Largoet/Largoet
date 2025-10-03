@@ -28,7 +28,7 @@
 
 🔹 **Kinto-Cloud** → Self-hosted cloud on Debian with Docker & Nextcloud.  
 - RAID setup, WireGuard VPN, Dockerized services  
-- Documentation available in [README](#)  
+- Documentation available in [README](https://github.com/Largoet/KintoCloud-)  
 
 🔹 **DevOps Lab** → Practice projects (Ansible, Terraform, CI/CD pipelines, monitoring).  
 - Inspired by Udemy “DevOps Projects” course  
@@ -46,9 +46,8 @@
 
 ## 📫 Contact  
 
-- 📄 [My Resume](#)  
 - ✉️ prunet.tht@protonmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/thibaut-prunet)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/thibaut-prunet-devops/)  
 
 ---
 
