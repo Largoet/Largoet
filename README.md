@@ -1,4 +1,4 @@
-# Hi 👋, I'm Thibaut Prunet  
+# Hi, I'm Thibaut Prunet  
 
 🎯 **Future DevOps & Cloud Engineer** | Nantes, France  
 🔧 Building expertise in **Linux, Cloud, Automation, and Security**  
@@ -21,10 +21,10 @@
 ## 📂 Featured Projects  
 
 🔹 **Collegium Magistrorum** → A **Pomodoro & Study Discord bot** designed to boost focus and productivity.  
-- 🎯 Core: **Pomodoro sessions, study tracking, dopamine-driven progression**  
-- 🕹️ Gamification: XP, loot system, guilds, daily quests  
+- Core: **Pomodoro sessions, study tracking, dopamine-driven progression**  
+- Gamification: XP, loot system, guilds, daily quests  
 - ⚙️ Tech stack: **TypeScript, Node.js, SQLite**  
-- 🚀 CI/CD with GitHub Actions + containerized via Docker  
+- CI/CD with GitHub Actions + containerized via Docker  
 
 🔹 **Kinto-Cloud** → Self-hosted cloud on Debian with Docker & Nextcloud.  
 - RAID setup, WireGuard VPN, Dockerized services  
@@ -54,8 +54,7 @@
 
 ## ⚡ Fun Facts  
 
-- 🥋 Enthusiast of **martial arts & sailing navigation**  
-- 🎸 Currently learning guitar  
+- 🥋 Enthusiast of **martial arts & sailing navigation**   
 - 🌳 Passionate about **architecture, nature & Japanese culture**  
 
 
