@@ -4,7 +4,7 @@
 
 - 🔭 Currently transitioning into tech to build skills in system administration and DevOps.
   
-- 🎓 I recently obtained a Full-Stack Web Development diploma at Wild Code School (React, Express, SQL), where I also gained a first approach to application security (JWT, data validation, secure APIs). I will join DataScientest in September 2025 to validate a Bac+3/4 in System Administration & DevOps, as the next step in my path towards cybersecurity.
+- 🎓 I recently obtained a Full-Stack Web Development diploma at Wild Code School (React, Express, SQL), where I also gained a first approach to application security (JWT, data validation, secure APIs). I joined DataScientest in September 2025 to validate a Bac+3/4 in System Administration & DevOps.
 
 - 📚 I'm also following the Udemy course DevOps Projects | [Begin Your DevOps Career As a Newbie | AWS, Linux, Scripting, Jenkins, Ansible, GitOps, Docker, Kubernetes, & Terraform.](https://www.udemy.com/share/104Tz63@xi7EYcYZq7uxCuiYInflOBxOANHmwm69NaVkJ-bU3RTAf4_VOky2BFpNv-1cdyq_Ug==/) to reinforce my practical skills.
 
