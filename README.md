@@ -1,22 +1,62 @@
+# Hi 👋, I'm Thibaut Prunet  
 
-<h1 align="center">Hi 👋, I'm Thibaut Prunet</h1>
-<h3 align="center">Aspiring to become a DevOps Engineer in France</h3>
+🎯 **Future DevOps & Cloud Engineer** | Nantes, France  
+🔧 Building expertise in **Linux, Cloud, Automation, and Security**  
 
-- 🔭 Currently transitioning into tech to build skills in system administration and DevOps.
-  
-- 🎓 I recently obtained a Full-Stack Web Development diploma at Wild Code School (React, Express, SQL), where I also gained a first approach to application security (JWT, data validation, secure APIs). I joined DataScientest in September 2025 to validate a Bac+3/4 in System Administration & DevOps.
+---
 
-- 📚 I'm also following the Udemy course DevOps Projects | [Begin Your DevOps Career As a Newbie | AWS, Linux, Scripting, Jenkins, Ansible, GitOps, Docker, Kubernetes, & Terraform.](https://www.udemy.com/share/104Tz63@xi7EYcYZq7uxCuiYInflOBxOANHmwm69NaVkJ-bU3RTAf4_VOky2BFpNv-1cdyq_Ug==/) to reinforce my practical skills.
+## 🌍 About Me  
 
-- 👨‍💻 All of my projects are available on [my GitHub account](https://github.com/Largoet).
+- 🎓 Currently validating a **Bac+3/4 in System Administration & DevOps** at DataScientest (Sept–Dec 2025).  
+- 🎓 Holder of a **Bac+2 in Full-Stack Web Development** (Wild Code School, React/Express/SQL).  
+- 💻 Transitioning from software development to **DevOps, Cloud & Security**, with a focus on:  
+  - **Linux & Networking**  
+  - **CI/CD pipelines (GitHub Actions, Jenkins)**  
+  - **Containerization (Docker, Kubernetes)**  
+  - **Infrastructure as Code (Terraform, Ansible)**  
+  - **Cloud (AWS – certification in progress, Azure, GCP basics)**  
 
-- 📄 Know about my experiences [Curriculum Vitae](https://www.canva.com/design/DAGya3oe1wU/csyxZk5826fU0TflToWBlA/edit?utm_content=DAGya3oe1wU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+---
 
-- 📫 How to reach me **prunet.tht@protonmail.com**
+## 📂 Featured Projects  
 
-- 🥋 Enthusiast guitar, martial arts and sailling navigation.
-  
-- 🌳 A lover of architecture, nature, and serene landscapes.
+🔹 **Collegium Magistrorum** → A **Pomodoro & Study Discord bot** designed to boost focus and productivity.  
+- 🎯 Core: **Pomodoro sessions, study tracking, dopamine-driven progression**  
+- 🕹️ Gamification: XP, loot system, guilds, daily quests  
+- ⚙️ Tech stack: **TypeScript, Node.js, SQLite**  
+- 🚀 CI/CD with GitHub Actions + containerized via Docker  
+
+🔹 **Kinto-Cloud** → Self-hosted cloud on Debian with Docker & Nextcloud.  
+- RAID setup, WireGuard VPN, Dockerized services  
+- Documentation available in [README](#)  
+
+🔹 **DevOps Lab** → Practice projects (Ansible, Terraform, CI/CD pipelines, monitoring).  
+- Inspired by Udemy “DevOps Projects” course  
+
+---
+
+## 📚 Current Learning Path  
+
+- Preparing for the **AWS Certified Cloud Practitioner (CLF-C02)** certification  
+- Python for DevOps scripting *(switching from JavaScript to Python)*  
+- Udemy: *DevOps Projects | AWS, Linux, Scripting, Jenkins, Ansible, GitOps, Docker, Kubernetes, Terraform*  
+- Next step: **Linux Foundation Certified SysAdmin (LFCS)**  
+
+---
+
+## 📫 Contact  
+
+- 📄 [My Resume](#)  
+- ✉️ prunet.tht@protonmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/thibaut-prunet)  
+
+---
+
+## ⚡ Fun Facts  
+
+- 🥋 Enthusiast of **martial arts & sailing navigation**  
+- 🎸 Currently learning guitar  
+- 🌳 Passionate about **architecture, nature & Japanese culture**  
 
 
 <h3 align="left">Connect with me:</h3>
