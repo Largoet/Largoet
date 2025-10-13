@@ -14,7 +14,7 @@
   - **CI/CD pipelines (GitHub Actions, Jenkins)**  
   - **Containerization (Docker, Kubernetes)**  
   - **Infrastructure as Code (Terraform, Ansible)**  
-  - **Cloud (AWS – certification in progress, Azure, GCP basics)**  
+  - **Cloud (AWS – certification in progress)**  
 
 ---
 
@@ -37,10 +37,21 @@
 
 ## 📚 Current Learning Path  
 
-- Preparing for the **AWS Certified Cloud Practitioner (CLF-C02)** certification  
-- Python for DevOps scripting *(switching from JavaScript to Python)*  
-- Udemy: *DevOps Projects | AWS, Linux, Scripting, Jenkins, Ansible, GitOps, Docker, Kubernetes, Terraform*  
-- Next step: **Linux Foundation Certified SysAdmin (LFCS)**  
+- Preparing for **AWS Certified Cloud Practitioner (CLF-C02)**  
+- Transitioning from **JavaScript to Python**, rebuilding solid foundations  
+- Learning **Python for automation, scripting, and robotics**  
+  → Coding small actions & reactions for **Reachy Mini** and repurposing **LEGO Boost** via Python  
+- Exploring **DevOps automation** with Ansible, Terraform & CI/CD  
+- Considering future studies in **Machine Learning & MLOps** *(planned for 2026, after current degree)*  
+
+### 🧭 Next Steps & Certifications  
+
+- **Linux Foundation Certified SysAdmin (LFCS)** → strengthen system administration skills  
+- **Certified Kubernetes Administrator (CKA)** → validate container orchestration expertise  
+- **AWS Certified Solutions Architect – Associate** → deepen cloud design and reliability  
+- **CompTIA Security+** or **AWS Certified Security – Specialty** → solid DevSecOps foundation  
+- **Google Cloud Professional Machine Learning Engineer** *(or)* **AWS Certified Machine Learning – Specialty** → bridge between Cloud, DevOps & MLOps  
+
 
 ---
 
