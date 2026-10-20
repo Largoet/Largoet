@@ -1,20 +1,13 @@
 # Hi, I'm Thibaut Prunet  
 
 🎯 **Future DevOps & Cloud Engineer** | Nantes, France  
-🔧 Building expertise in **Linux, Cloud, Automation, and Security**  
 
 ---
 
 ## 🌍 About Me  
 
-- 🎓 Currently validating a **Bac+3/4 in System Administration & DevOps** at DataScientest (Sept–Dec 2025).  
-- 🎓 Holder of a **Bac+2 in Full-Stack Web Development** (Wild Code School, React/Express/SQL).  
-- 💻 Transitioning from software development to **DevOps, Cloud & Security**, with a focus on:  
-  - **Linux & Networking**  
-  - **CI/CD pipelines (GitHub Actions, Jenkins)**  
-  - **Containerization (Docker, Kubernetes)**  
-  - **Infrastructure as Code (Terraform, Ansible)**  
-  - **Cloud (AWS – certification in progress)**  
+- 🎓 Currently validating a **Bac+5 in Cloud & DevOps** at Sup de Vinci (2026-2028).  
+
 
 ---
 
@@ -35,37 +28,12 @@
 
 ---
 
-## 📚 Current Learning Path  
-
-- Preparing for **AWS Certified Cloud Practitioner (CLF-C02)**  
-- Transitioning from **JavaScript to Python**, rebuilding solid foundations  
-- Learning **Python for automation, scripting, and robotics**  
-  → Coding small actions & reactions for **Reachy Mini** and repurposing **LEGO Boost** via Python  
-- Exploring **DevOps automation** with Ansible, Terraform & CI/CD  
-- Considering future studies in **Machine Learning & MLOps** *(planned for 2026, after current degree)*  
-
-### 🧭 Next Steps & Certifications  
-
-- **Linux Foundation Certified SysAdmin (LFCS)** → strengthen system administration skills  
-- **Certified Kubernetes Administrator (CKA)** → validate container orchestration expertise  
-- **AWS Certified Solutions Architect – Associate** → deepen cloud design and reliability  
-- **CompTIA Security+** or **AWS Certified Security – Specialty** → solid DevSecOps foundation  
-- **Google Cloud Professional Machine Learning Engineer** *(or)* **AWS Certified Machine Learning – Specialty** → bridge between Cloud, DevOps & MLOps  
-
-
----
-
 ## 📫 Contact  
 
 - ✉️ prunet.tht@protonmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/thibaut-prunet-devops/)  
 
 ---
-
-## ⚡ Fun Facts  
-
-- 🥋 Enthusiast of **martial arts & sailing navigation**   
-- 🌳 Passionate about **architecture, nature & Japanese culture**  
 
 
 <h3 align="left">Connect with me:</h3>
